@@ -1,12 +1,12 @@
-"""class mahasiswa:
+class mahasiswa:
     kampus = 'UNTAN'
     jurusan = 'Rekayasa Sistem Komputer'
 
 joko = mahasiswa()
 print(joko.kampus)
-print(joko.jurusan)"""
+print(joko.jurusan)
 
-"""class karyawan:
+class karyawan:
     nama = "Joko Udin"
     jabatan = "Manager"
     gaji = "Rp.4.500.000"
@@ -16,7 +16,7 @@ joko = karyawan()
 print(joko.nama)
 print(joko.jabatan)
 print(joko.gaji)
-print(joko.lama_berkerja)"""
+print(joko.lama_berkerja)
 
 class Mahasiswa:
     #Kelas ini digunakan untuk mendefinisikan mahasiswa
@@ -44,7 +44,7 @@ def main():
 if __name__ =="__main__":
     main()
 
-"""class hasildata:
+class hasildata:
     hasil = 'Hasil datanya adalah'
 
     def __init__(self, nama, asal, usia, pekerjaan):
@@ -69,6 +69,4 @@ def main():
     org2.tampilan_data()
 
 if __name__=="__main__":
-    main()"""
-
-
+    main()
